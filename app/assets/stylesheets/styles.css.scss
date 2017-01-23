@@ -1,4 +1,4 @@
-$primary_color: #AAA;
+$primary_color: white;
 
 body {
   background-color: $primary_color;
@@ -33,4 +33,24 @@ a {
 #content {
   clear: both;
   padding-top: 20px;
+}
+
+img {
+  height:100px;
+  width:100px;
+  padding:10px
+}
+
+.tags_list {
+  
+  
+  padding: 0px 10px 10px 0px;
+  
+  
+  
+
+}
+
+.article_navigation {
+  padding:5px
 }
